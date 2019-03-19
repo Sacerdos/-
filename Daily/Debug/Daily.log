@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+d:\kr_final_dychkovin\daily\daily\myform.h(25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note:  см. объявление "localtime"
+d:\kr_final_dychkovin\daily\daily\myform.h(104): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kr_final_dychkovin\daily\daily\myform.h(114): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kr_final_dychkovin\daily\daily\myform.h(406): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kr_final_dychkovin\daily\daily\myform.cpp(8): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Daily.vcxproj -> D:\KR_Final_DychkovIN\Daily\Debug\Daily.exe

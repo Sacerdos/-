@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\users\ilyad\desktop\курсач\daily\myform.h(25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note:  см. объявление "localtime"
+c:\users\ilyad\desktop\курсач\daily\myform.h(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ilyad\desktop\курсач\daily\myform.h(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ilyad\desktop\курсач\daily\myform.h(410): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ilyad\desktop\курсач\daily\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Daily.vcxproj -> C:\Users\ilyad\Desktop\Курсач\Release\Daily.exe
